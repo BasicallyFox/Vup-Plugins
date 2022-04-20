@@ -12,7 +12,7 @@ from random import randint, choice
 from kannax import Message, kannax
 
 
-@kannax.on_cmd("(K)$", about={"header": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK"}, trigger="", allow_via_bot=False)
+@kannax.on_cmd("(K)$", about={"header": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK"}, trigger="", allow_via_bot=False)
 async def k_(message: Message):
     """K"""
     k = "KKKKKKKKK "
